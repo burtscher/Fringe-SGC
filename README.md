@@ -21,8 +21,9 @@ Fringe-SGC is a CUDA code for counting the number of occurrences of a subgraph i
 
 ## Publication
 If you use Fringe-SGC in your work, please cite the following publication:
-Cameron Bradley, Ghadeer Alabandi, and Martin Burtscher. Fringe-SGC: Counting Subgraphs with Fringe Vertices. Proceedings of the 2025 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis. November 2025. [[doi]](https://doi.org/10.1145/3712285.3759839) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3712285.3759839) [[slides]](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fuserweb.cs.txstate.edu%2F~burtscher%2Fslides%2Fsc25a.pptx&wdOrigin=BROWSELINK)
+Cameron Bradley, Ghadeer Alabandi, and Martin Burtscher. Fringe-SGC: Counting Subgraphs with Fringe Vertices. Proceedings of the 2025 ACM/IEEE International Conference for High Performance Computing, Networking, Storage, and Analysis. November 2025. [[doi]](https://doi.org/10.1145/3712285.3759839) [[paper]](https://dl.acm.org/doi/pdf/10.1145/3712285.3759839) [[slides]](https://userweb.cs.txstate.edu/~burtscher/slides/sc25a.pptx)
 
 *This work has been supported by the National Science Foundation under Award Number 1955367.*
+
 
 
